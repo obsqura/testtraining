@@ -21,7 +21,7 @@
 					<archive>
 						<manifest>
 						<addClasspath>true</addClasspath>
-							<mainClass>test.Hello</mainClass>
+							<mainClass>test.testexecution</mainClass>
 						</manifest>
 					</archive>
 				</configuration>
